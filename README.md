@@ -1,6 +1,6 @@
 # Landing-page
 
-Here I built a simple landing page with a freelance programmer theme. The project was built with react.
+Here I built a simple landing page with a freelance programmer theme. The project was built with react. You can see the website [here](https://landing-page-nine-iota.vercel.app/).
 ##
 
 ![image](https://github.com/anndross/landing-page/assets/132636167/01069257-4f51-460b-aa31-a302be159717)
