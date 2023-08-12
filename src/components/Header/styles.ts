@@ -12,8 +12,6 @@ export const Container = styled.div`
   display: flex;
   justify-content: space-between;
   align-items: center;
-  position: fixed;
-  z-index: 1000;
   transition: 0.12s;
   background: #fff;
   color: #fff;
@@ -37,7 +35,4 @@ export const LinkSections = styled.div`
     ${props => props.color && blueLook}
     background: none !important;
   }
-  /* @media (max-width: 730px) {
-    display: none;
-  } */
 `

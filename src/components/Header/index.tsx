@@ -14,11 +14,6 @@ export const Header = ({ canChangeColor }: Props) => {
           &nbsp; Soares
         </h1>
       </div>
-      {/* <S.LinkSections color={canChangeColor}>
-        <a href="#">Portfolio</a>
-        <a href="#">GitHub</a>
-        <a href="#email-section">Mande-me um Email</a>
-      </S.LinkSections> */}
     </S.Container>
   )
 }

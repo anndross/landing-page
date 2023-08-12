@@ -68,7 +68,7 @@ export const Images = styled.div`
     width: 100%;
     filter: drop-shadow(0 0 0.4rem ${props => props.theme.colors.primary500}) ;
   }
-  @media (max-width: 412px) {
+  @media (max-width: 560px) {
    display: none;
   }
 `
