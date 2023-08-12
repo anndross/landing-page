@@ -1,6 +1,17 @@
 # Landing-page
 
 Here I built a simple landing page with a freelance programmer theme. The project was built with react.
+##
+
+![image](https://github.com/anndross/landing-page/assets/132636167/01069257-4f51-460b-aa31-a302be159717)
+![image](https://github.com/anndross/landing-page/assets/132636167/11a09e1e-89be-45b6-be1c-a699ade811b8)
+![image](https://github.com/anndross/landing-page/assets/132636167/e97bb98d-8ee0-464f-ae00-ed0fe4b93941)
+<p float="left">
+<img width="24%" src="https://github.com/anndross/landing-page/assets/132636167/ffa9781b-5907-40aa-8545-e175f16a1dfb"/>
+<img width="24%" src="https://github.com/anndross/landing-page/assets/132636167/a12b8f58-cda4-467c-860d-ac917c3c5aa2"/>
+<img width="24%" src="https://github.com/anndross/landing-page/assets/132636167/5bcb99e2-c216-47b2-8b9e-dbcb3f9791ac"/>
+<img width="24%" src="https://github.com/anndross/landing-page/assets/132636167/ef2b1780-2a51-43dd-aa1f-30511dc6ae42"/>
+</p>
 
 ### Features and Sections
 
